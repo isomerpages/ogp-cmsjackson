@@ -25,7 +25,7 @@ sections:
     - infobar:
         title: Infobar title
         subtitle: Subtitle
-        description: About a sentence worth of description here
+        description: <iframe width="560" height="315" src="https://www.youtube.com/embed/CM4CkVFmTds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         button: Button text
         url: /faq/
     - resources:
