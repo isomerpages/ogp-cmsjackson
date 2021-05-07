@@ -1,5 +1,4 @@
 collections:
   test-folder:
     output: true
-    order:
-      - test-page.md
+    order: []
