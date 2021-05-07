@@ -8,3 +8,5 @@ links:
     collection: example-collection
   - title: Example Resource
     resource_room: true
+  - title: Test Folder
+    collection: test-folder
