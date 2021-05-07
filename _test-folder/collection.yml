@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - test-subfolder/.keep
+      - test-subfolder/test-sub-title.md
