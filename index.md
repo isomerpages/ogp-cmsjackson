@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: test
+title: test blah blah blah
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
