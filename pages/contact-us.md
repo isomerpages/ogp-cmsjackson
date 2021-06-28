@@ -33,6 +33,7 @@ contacts:
   - content:
       - phone: ""
       - email: careers@abc.gov.sg
-      - other: ""
+      - other: <a href="https://www.go.gov.sg/shc-change" target="_blank">Click here to
+          access form</a>
     title: Careers
 ---
