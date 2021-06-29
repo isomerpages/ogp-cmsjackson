@@ -1,4 +1,5 @@
 collections:
   smartnationtogether:
     output: true
-    order: []
+    order:
+      - example-title.md
