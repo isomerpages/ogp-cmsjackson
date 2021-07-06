@@ -1,4 +1,4 @@
-title: test blah blah blah
+title: this is the title
 url: ""
 favicon: /images/favicon-isomer.ico
 colors:
@@ -52,3 +52,4 @@ plugins:
   - jekyll-remote-theme
 staging: https://ogp-cmsjackson-staging.netlify.app
 prod: https://ogp-cmsjackson-prod.netlify.app
+is_government: false
