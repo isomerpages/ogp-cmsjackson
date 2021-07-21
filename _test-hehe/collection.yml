@@ -1,4 +1,5 @@
 collections:
   test-hehe:
     output: true
-    order: []
+    order:
+      - example-title.md
