@@ -2,5 +2,4 @@ collections:
   eia-report:
     output: true
     order:
-      - eia-report-2.md
       - eia-report.md
