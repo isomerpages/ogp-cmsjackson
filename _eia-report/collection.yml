@@ -1,0 +1,4 @@
+collections:
+  eia-report:
+    output: true
+    order: []
