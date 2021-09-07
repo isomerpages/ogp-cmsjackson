@@ -1,4 +1,5 @@
 collections:
   eia-report:
     output: true
-    order: []
+    order:
+      - eia-report-2.md
