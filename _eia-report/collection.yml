@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - eia-report.md
+      - test232.md
