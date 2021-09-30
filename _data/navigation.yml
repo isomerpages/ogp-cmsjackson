@@ -4,11 +4,16 @@ links:
     url: /contact-us/
   - title: Example Page
     url: /example-page/
-  - title: Example Resource
-    resource_room: true
   - title: Test1123
     collection: test1123
   - title: Smartnationtogether
     collection: smartnationtogether
-  - title: Test Hehe
-    collection: test-hehe
+  - title: Resources
+    url: /example-resource
+    sublinks:
+      - title: Blah
+        url: example-resource/blah/
+      - title: Example Category
+        url: /example-resource/example-category/
+      - title: EIA reports
+        url: /test1
