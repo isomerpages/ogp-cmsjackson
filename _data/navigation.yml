@@ -1,13 +1,5 @@
 logo: /images/smart-nation-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Test1123
-    collection: test1123
-  - title: Smartnationtogether
-    collection: smartnationtogether
   - title: Resources
     url: /example-resource
     sublinks:
