@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - ensuring-sustainable-development.md
-      - test232.md
+      - example-1.md
