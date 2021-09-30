@@ -4,17 +4,11 @@ links:
     url: /contact-us/
   - title: Example Page
     url: /example-page/
-  - title: Example Collection
-    collection: example-collection
   - title: Example Resource
     resource_room: true
-  - title: Test Folder
-    collection: test-folder
   - title: Test1123
     collection: test1123
   - title: Smartnationtogether
     collection: smartnationtogether
   - title: Test Hehe
     collection: test-hehe
-  - title: Eia Report
-    collection: eia-report
