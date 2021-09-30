@@ -1,6 +1,0 @@
-collections:
-  test-hehe:
-    output: true
-    order:
-      - example-title.md
-      - example-title1.md
