@@ -1,5 +1,0 @@
-collections:
-  smartnationtogether:
-    output: true
-    order:
-      - example-title.md
