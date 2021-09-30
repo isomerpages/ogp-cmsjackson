@@ -1,6 +1,0 @@
-collections:
-  test-navigation:
-    output: true
-    order:
-      - test-title.md
-      - .md
