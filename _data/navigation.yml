@@ -12,7 +12,7 @@ links:
     url: /example-resource
     sublinks:
       - title: Blah
-        url: example-resource/blah/
+        url: /example-resource/blah/
       - title: Example Category
         url: /example-resource/example-category/
       - title: EIA reports
