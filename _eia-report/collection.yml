@@ -2,5 +2,5 @@ collections:
   eia-report:
     output: true
     order:
-      - eia-report.md
+      - ensuring-sustainable-development.md
       - test232.md
