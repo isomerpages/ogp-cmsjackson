@@ -53,3 +53,4 @@ plugins:
 staging: https://ogp-cmsjackson-staging.netlify.app
 prod: https://ogp-cmsjackson-prod.netlify.app
 is_government: false
+shareicon: /images/sp_new.png
