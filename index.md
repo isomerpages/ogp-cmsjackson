@@ -2,7 +2,7 @@
 layout: homepage
 title: this is the title hello hello hello hello
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/avatarbg.png
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
