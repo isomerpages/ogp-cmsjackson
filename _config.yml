@@ -2,7 +2,7 @@ title: this is the title hello hello hello hello
 url: ""
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "1231"
+  primary-color: "#1e211a"
   secondary-color: "#4372d6"
   media-colors:
     - title: media-color-one
