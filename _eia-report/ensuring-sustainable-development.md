@@ -8,7 +8,7 @@ permalink: /test1
 
 	
 	
-<table>
+<table span style="background-colour: #FFF6BA; padding: 20px; margin: 20px; background:#fff6ba; display:block; ">
   <tr>
     <td>Emil</td>
     <td>Tobias</td>
@@ -18,4 +18,5 @@ permalink: /test1
 		<td>Test</td>
 		<td>test2</td>
 		<td>test3</td>
+	</tr>
 </table>
