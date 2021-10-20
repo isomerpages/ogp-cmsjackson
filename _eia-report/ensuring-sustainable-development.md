@@ -17,4 +17,5 @@ permalink: /test1
     <th class="tg">wad</th>
     <th class="tg-0pky">wad</th>
 											 </tr>
+											 </thead>
 </table>
