@@ -14,4 +14,8 @@ permalink: /test1
     <td>Tobias</td>
     <td>Linus</td>
   </tr>
+	<tr>
+		<td>Test</td>
+		<td>test2</td>
+		<td>test3</td>
 </table>
