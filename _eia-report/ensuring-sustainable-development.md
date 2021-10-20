@@ -9,7 +9,6 @@ permalink: /test1
 	
 	
 	<table span style="background-colour: #FFF6BA; background:#fff6ba;>
-<thead>
   <tr>
     <th class="tg">ffff</th>
     <th class="tg">blahblah</th>
@@ -17,5 +16,4 @@ permalink: /test1
     <th class="tg">wad</th>
     <th class="tg-0pky">wad</th>
 											 </tr>
-											 </thead>
 </table>
