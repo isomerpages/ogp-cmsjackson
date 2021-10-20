@@ -2,13 +2,10 @@
 title: Ensuring sustainable development
 permalink: /test1
 ---
-<span style="background-colour: #FFF6BA; padding: 20px; margin: 20px; background:#fff6ba; display:block; ">
-	<b>Healing Practices</b>
-<br>One of the most notable Malay medical manuscripts translated into English is Ismail Munshi’s *The Medical Book of Malayan Medicine*. Originally written in Jawi (c. 1850), it contains over 550 remedies for maladies ranging from migraines to depression, bloatedness and leprosy.
+<table span style="background-colour: #FFF6BA; padding: 20px; margin: 20px; background:#fff6ba; display:block; " class="city">
+	<b class="city">Healing Practices</b>
+<br class="city">One of the most notable Malay medical manuscripts translated into English is Ismail Munshi’s *The Medical Book of Malayan Medicine*. Originally written in Jawi (c. 1850), it contains over 550 remedies for maladies ranging from migraines to depression, bloatedness and leprosy.
 
-	
-	
-<table span style="background-colour: #FFF6BA; padding: 20px; margin: 20px; background:#fff6ba; display:block; ">
   <tr>
     <td>Emil</td>
     <td>Tobias</td>
