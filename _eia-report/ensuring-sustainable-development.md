@@ -9,7 +9,7 @@ permalink: /test1
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
 
-<a href="www.google.com">
+<a href="https://www.google.com">
   <img src="/images/avatarbg.png" alt="HTML tutorial" >
 </a>
 
