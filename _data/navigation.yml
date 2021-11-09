@@ -9,3 +9,5 @@ links:
         url: /example-resource/example-category/
       - title: EIA reports
         url: /test1
+  - title: Test
+    collection: test
