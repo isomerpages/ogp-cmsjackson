@@ -2,6 +2,7 @@ collections:
   eia-report:
     output: true
     order:
+      - "寻找“南洋”: 从1920年代末文艺理论初探文人对南洋之印.md"
       - 寻找“南洋.md
       - "寻找“南洋”: 从1920年代末文艺理论初探文人对南洋之印象.md"
       - ensuring-sustainable-development.md
