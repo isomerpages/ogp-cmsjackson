@@ -1,6 +1,6 @@
 ---
 title: Example 1
-permalink: /eia-report/permalink
+permalink: /eia-report/blah
 redirect_to:
   - https://www.google.com
 ---
