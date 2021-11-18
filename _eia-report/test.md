@@ -1,6 +1,8 @@
 ---
 title: test
 permalink: /eia-report/permalink
+redirect_to:
+  - http://www.google.com
 description: ""
 ---
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; ">
