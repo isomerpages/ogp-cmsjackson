@@ -1,6 +1,8 @@
 ---
 title: Example 1
 permalink: /eia-report/permalink
+redirect_to:
+  - https://www.google.com
 ---
 <ul class="jekyllcodex_accordion">
   <li>
