@@ -65,7 +65,7 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 <b>Examples of Common Offences</b>
 <ul class="jekyllcodex_accordion2">
 <li>
-	<input id="accordion4" type="checkbox">
+	<input id="accordion2" type="checkbox">
     <label for="accordion4">Making an incorrect declaration on the value of goods imported into Singapore:</label>
 <div>
 	<ul><li>Omission of insurance charges in the value when declaring GST Payment permit to import goods</li>
