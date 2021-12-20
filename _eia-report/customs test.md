@@ -119,8 +119,8 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 
 <ul class="jekyllcodex_accordion">
 	<li>                                                                 
-			<input type="checkbox" id="accordion1">
-			<label for="accordion1">Do</label>
+			<input id="accordion9" type="checkbox">
+			<label for="accordion9">Do</label>
 			<div>
 					<p>	✔ Inform Singapore Customs if there is any change in your company’s particulars to ensure you receive timely updates on regulatory changes.</p>
 				<p> ✔ Know the import procedures and declaration requirements before you import. Check with the relevant Competent Authority on the requirements to import controlled items. </p>
@@ -135,8 +135,8 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 				</div>
 				</li>
 				<li>
-				<input type="checkbox" id="accordion2">
-				<label for="accordion2">Do Not</label>
+				<input id="accordion10" type="checkbox">
+				<label for="accordion10">Do Not</label>
 				<div>
 				<p>✖ Make a declaration without verifying the authenticity of all the supporting documents. </p>
 					<p> ✖ Use a pro-forma invoice for permit application. </p>
