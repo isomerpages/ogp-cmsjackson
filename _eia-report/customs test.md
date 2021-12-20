@@ -63,7 +63,7 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 </ul>
 
 <b>Examples of Common Offences</b>
-<ul class="jekyllcodex_accordion2">
+<ul class="jekyllcodex_accordion">
 <li>
 	<input id="accordion2" type="checkbox">
     <label for="accordion4">Making an incorrect declaration on the value of goods imported into Singapore:</label>
