@@ -84,16 +84,16 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 	</li>
 <li>
 	<input id="accordion6" type="checkbox">
-    <label for="accordion6"> Failure to produce trade documents upon request by Singapore Customs:</label>
+    <label for="accordion6">Failure to produce trade documents upon request by Singapore Customs:</label>
 <div>
 	<ul>
-		<li>  Failure to produce documents such as invoice, bill of lading or certificate of origin for verification</li>
+		<li>Failure to produce documents such as invoice, bill of lading or certificate of origin for verification</li>
 	</ul>
 	</div>
 	</li>
 	<li>
 		<input id="accordion7" type="checkbox">
-	<label for="accordion7"> Failure to produce licence or customs permit for customs clearance/endorsement:</label>
+	<label for="accordion7">Failure to produce licence or customs permit for customs clearance/endorsement:</label>
 	<div>
 	<ul>
 		<li>Haulier failing to produce the goods and customs permit with supporting documents for endorsement at the checkpoint</li>
@@ -102,7 +102,7 @@ A <a href="https://www.customs.gov.sg/businesses/importing-goods/import-procedur
 	</li>
 			<li>
 		<input id="accordion8" type="checkbox">
-		</li><li><label for="accordion8">Unauthorised tampering/opening/breaking/altering or removing of customs lock, seal or other safeguards placed on containerised dutiable goods</label>
+		<label for="accordion8">Unauthorised tampering/opening/breaking/altering or removing of customs lock, seal or other safeguards placed on containerised dutiable goods</label>
 			<div>
 				<ul>
 					<li>Unauthorised breakage of Customs red seal affixed on the container</li>
