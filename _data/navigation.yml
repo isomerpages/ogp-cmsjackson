@@ -11,3 +11,5 @@ links:
         url: /test1
   - title: Test
     collection: test
+  - title: test2
+    url: www.facebook.com
