@@ -1,5 +1,5 @@
 collections:
-  iccs-2022:
+  test-2:
     output: true
     order:
       - asdasdadsdsaExample Title.md
