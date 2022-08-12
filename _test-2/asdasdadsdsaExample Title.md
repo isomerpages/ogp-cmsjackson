@@ -1,5 +1,5 @@
 ---
 title: asdasdadsdsaExample Title
-permalink: /iccs-2022/permalink
+permalink: https://www.facebook.com
 description: ""
 ---
