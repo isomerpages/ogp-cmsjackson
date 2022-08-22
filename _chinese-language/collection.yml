@@ -2,5 +2,6 @@ collections:
   chinese-language:
     output: true
     order:
+      - Malay language/.keep
       - About Chinese Language/About Chinese language.md
       - About Chinese Language/.keep
