@@ -1,4 +1,5 @@
 collections:
   chinese-language:
     output: true
-    order: []
+    order:
+      - Chinese Language.md
