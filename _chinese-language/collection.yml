@@ -1,0 +1,4 @@
+collections:
+  chinese-language:
+    output: true
+    order: []
