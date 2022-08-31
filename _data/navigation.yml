@@ -1,17 +1,8 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/1526974060.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Collection
-    collection: example-collection
-  - title: Example Resource
+  - title: Test
+    collection: test
+  - title: test2
+    url: https://www.facebook.com
+  - title: Resources
     resource_room: true

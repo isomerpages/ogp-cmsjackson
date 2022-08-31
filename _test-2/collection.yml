@@ -1,0 +1,5 @@
+collections:
+  test-2:
+    output: true
+    order:
+      - asdasdadsdsaExample Title.md
