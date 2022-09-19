@@ -1,8 +1,17 @@
 logo: /images/1526974060.svg
 links:
-  - title: Test
+  - title: facebook
     collection: test
-  - title: test2
-    url: https://www.facebook.com
+  - title: youtube
+    url: https://www.youtube.com
   - title: Resources
     resource_room: true
+  - title: Menu Title
+    url: /permalink
+    sublinks:
+      - title: facebook
+        url: https://www.facebook.com
+      - title: about us
+        url: /permalink
+      - title: Submenu Title
+        url: /permalink
