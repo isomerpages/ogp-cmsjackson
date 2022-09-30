@@ -7,7 +7,7 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: <font size=8>National Climate Change Secretariat</font>
+      title: <p style="font-family:verdana">This is a paragraph.</p>
       subtitle: www.facebook.com
       background: /images/hero-banner.png
       button: Contact Us
