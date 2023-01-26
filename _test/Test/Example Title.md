@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Test
 ---
 
+
+
 <img src="https://d33wubrfki0l68.cloudfront.net/42da8cd22008325d114dd453c3b88d53aa1ba725/16996/images/framework/framework_overview.jpg" alt="green plan">
 
 Launched in February 2021, the Singapore Green Plan 2030 seeks to galvanise a whole-of-nation movement and advance Singapore’s national agenda on sustainable development. 
@@ -13,12 +15,18 @@ Spearheaded by five ministries - the Ministries of Sustainability and the Enviro
 
 #### Explore the 5 pillars of the Singapore Green Plan 2030
 
+
+.tile-container{
+  display: flex;
+}
+
 <div class="tile-container">
 	<a class="tile-item" href="/key-focus-areas/city-in-nature">
 		<img src="/images/testing-simpsons.gif" alt="City in Nature"></a>
 	<a class="tile-item" href="/key-focus-areas/energy-reset">
 		<img src="/images/testing-simpsons.gif" alt="Energy Reset"></a>
 </div>
+
 
 <div class="tile-container">
 	<a class="tile-item" href="/key-focus-areas/sustainable-living">
