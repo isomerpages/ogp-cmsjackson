@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - this is for testing.md
-      - Malay language/aslfsj.md
-      - Malay language/.keep
+      - C C A/aslfsj.md
+      - C C A/.keep
       - About Chinese Language/About Chinese language.md
       - About Chinese Language/.keep
